@@ -10,4 +10,11 @@ This project presents a comprehensive analysis of British Airways customer revie
 - **Identify common areas of complaints and praises**.
 - **Assess the performance** of British Airways across different routes and classes.
 - **Provide actionable insights** to improve service quality and customer experience.
-
+  
+## Dashboard Features
+- **Overall Satisfaction Overview**: Displays average ratings and trends over the selected time frame.
+- **Sentiment Analysis**: Breakdown of positive, neutral, and negative reviews.
+- **Category-wise Performance**: Analysis of different service aspects like seating comfort, staff service, food quality, etc.
+- **Geographical Insights**: Visual representation of reviews based on flight routes and destinations.
+- **Time-Series Analysis**: Observes how customer satisfaction has evolved over months and years.
+- **Filter and Drill-Down Options**: Interactive filters to explore data by date, class, route, and more.
